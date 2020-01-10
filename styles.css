@@ -1,5 +1,5 @@
 body{
-	background: #c7c7b7;
+	background: #a4a48d;
 	color:#d9cdbe;
 	font-family: 'Gayathri', sans-serif;
 	letter-spacing: 0.05em;
@@ -67,7 +67,7 @@ body{
 	list-style: none;
 	font-size:20px;
 }
-.links *{
+.links li{
 	color:#292521;
 	opacity: 0.8;
 	margin: 5px 0;
