@@ -67,8 +67,9 @@ body{
 	list-style: none;
 	font-size:20px;
 }
-.links li{
+.links *{
 	color:#292521;
+	opacity: 0.8;
 	margin: 5px 0;
 
 }
@@ -147,7 +148,7 @@ body{
 	
 }
 .skills{
-	color:#212925;
+	color:#292521;
 	opacity: 0.8;
 	mix-blend-mode: color-burn;
 	font-size: 40px;
