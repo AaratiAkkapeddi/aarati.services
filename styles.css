@@ -1,5 +1,5 @@
 body{
-	background: #d9d9d9;
+	background: #f8f8f8;
 	color:#868686;
 	font-family: 'Gayathri', sans-serif;
 	letter-spacing: 0.05em;
@@ -136,6 +136,7 @@ body{
 	font-size: 140px;
 	font-weight:normal;
 	margin:0;
+	color:white;
 	line-height: 1.2;
 	-webkit-text-stroke: 1px #434343;
 
