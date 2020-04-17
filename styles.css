@@ -85,7 +85,7 @@ body{
 	margin-left:2px;
 }
 .circle3{
-	background: #9bafaf;
+	background: #e4ffff;
 	filter: blur(20px);
 	width: 200px;
 	height: 200px;
@@ -101,7 +101,7 @@ body{
 	
 }
 .circle2{
-	background: #af9b9b;
+	background: #ffdcdc;
 	filter: blur(20px);
 	width: 200px;
 	height: 200px;
@@ -114,7 +114,7 @@ body{
 	top:200px;
 }
 .circle{
-	background: #afa59b;
+	background: #ffefdf;
 	filter: blur(20px);
 	width: 200px;
 	height: 200px;
