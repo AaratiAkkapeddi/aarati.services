@@ -1,6 +1,6 @@
 body{
 	background: #d9d9d9;
-	color:#fff;
+	color:#868686;
 	font-family: 'Gayathri', sans-serif;
 	letter-spacing: 0.05em;
 }
@@ -15,14 +15,14 @@ body{
 	margin:0 auto;
 	margin-top: 20px;
 	float:right;
-	border:3px dashed #38453f;
+	border:3px dashed #434343;
 }
 .links h6{
-		font-size: 30px;
+		font-size: 26px;
 		margin: 0;
 }
 .links h5{
-	font-size: 20px;
+	font-size: 26px;
 	margin: 0;
 	}
 .video-container video{
@@ -68,7 +68,7 @@ body{
 	font-size:20px;
 }
 .links li{
-	color:#292521;
+	color:#2f2f2f;
 	opacity: 0.8;
 	margin: 5px 0;
 
@@ -137,18 +137,19 @@ body{
 	font-weight:normal;
 	margin:0;
 	line-height: 1.2;
-	-webkit-text-stroke: 1px #38453f;
+	-webkit-text-stroke: 1px #434343;
 
    text-shadow:
-       3px 3px 0 #38453f,
-     -1px -1px 0 #38453f,  
-      1px -1px 0 #38453f,
-      -1px 1px 0 #38453f,
-       1px 1px 0 #38453f;
+       3px 3px 0 #434343,
+     -1px -1px 0 #434343,  
+      1px -1px 0 #434343,
+      -1px 1px 0 #434343,
+       1px 1px 0 #434343;
 	
 }
 .skills{
-	color:#292521;
+	
+	color: #2f2f2f;
 	opacity: 0.8;
 	mix-blend-mode: color-burn;
 	font-size: 40px;
@@ -158,7 +159,7 @@ body{
 	margin-left:10px;
 	font-size: 45px;
 	font-weight: normal;
-	color: #38453f;
+	color: #434343;
 }
 
 
@@ -167,7 +168,7 @@ body{
 		font-size: 17px;
 		margin-left:0;
 		text-shadow: none;
-		color:#38453f;
+		color:#434343;
 		webkit-text-stroke: none;
 	}
 
