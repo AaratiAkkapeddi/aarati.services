@@ -20,15 +20,11 @@ body{
 .links h6{
 		font-size: 30px;
 		margin: 0;
-	-webkit-text-stroke: 0.5px #38453f;
-    text-shadow: 0.5px 0.5px 0 #38453f, -1px -1px 0 #38453f, 1px -1px 0 #38453f, -1px 1px 0 #38453f, 1px 1px 0 #38453f;
 }
 .links h5{
 	font-size: 20px;
 	margin: 0;
-	-webkit-text-stroke: 0.5px #38453f;
-    text-shadow: 0.5px 0.5px 0 #38453f, -1px -1px 0 #38453f, 1px -1px 0 #38453f, -1px 1px 0 #38453f, 1px 1px 0 #38453f;
-}
+	}
 .video-container video{
 	width: 130%;
 	height: auto;
