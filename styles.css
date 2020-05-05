@@ -6,7 +6,7 @@ body{
 }
 /*#c9c2bc*/
 .video-container{
-	border-radius: 270px;
+	border-radius: 0px;
 	overflow: hidden;
 
 	display: block;
